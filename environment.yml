@@ -9,7 +9,6 @@ dependencies:
       - --extra-index-url https://download.pytorch.org/whl/cpu
       - torch==2.12.0
       - torchvision==0.27.0
-      - torchaudio==2.12.0
       - jupyterlab==4.5.*
       - nbgrader==0.9.*
       - ipympl==0.9.*
